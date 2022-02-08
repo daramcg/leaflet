@@ -30,6 +30,14 @@ body {
 	grid-area: content;
 }
 
+.sidebar-item {
+    padding: 10px; /* adds inner padding */
+    background: #333; /* background color */
+    color: white;
+    border: 1px solid gray; /* border width, style, and color */
+    margin: 5px; /* outer padding */
+}
+
 .footer {
 	grid-area: footer;
 	padding:10px;
